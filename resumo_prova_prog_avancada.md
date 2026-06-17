@@ -1,5 +1,5 @@
 # 📚 Resumo — Revisão 2º Bimestre · PRAV80 Programação Avançada
-> Prof. Luiz Baroni · Foco em **leitura de código e saídas**
+> Vicente, fiz baseado nos slides do Prof. Baroni
 
 ---
 
