@@ -1,4 +1,4 @@
-# 📚 Resumo — Revisão 2º Bimestre · PRAV80 Programação Avançada
+#  Resumo — Revisão 2º Bimestre · PRAV80 Programação Avançada
 > Vicente, fiz baseado nos slides do Prof. Baroni
 
 ---
@@ -192,7 +192,7 @@ finally:
     file.close()  # SEMPRE executa, com ou sem erro
 ```
 
-> ⚠️ **`finally` sempre roda** — é o lugar certo para fechar arquivos!
+>  **`finally` sempre roda** — é o lugar certo para fechar arquivos!
 
 ---
 
@@ -314,7 +314,7 @@ print("O 1º aluno se chama "
 # Saída: O 1º aluno se chama João e tem 23 anos de vida.
 ```
 
-> 🔑 **Diferença chave Pickle vs JSON:**
+>  **Diferença chave Pickle vs JSON:**
 > - Pickle serializa como `bytes` → `<class 'bytes'>`
 > - JSON serializa como texto → `<class 'str'>`
 > - Ambos deserializam de volta para `<class 'dict'>`
@@ -362,7 +362,7 @@ print("feito")
 # feito
 ```
 
-> ⚠️ `start()` inicia a thread, `join()` espera ela terminar antes de continuar.
+>  `start()` inicia a thread, `join()` espera ela terminar antes de continuar.
 
 ---
 
@@ -599,7 +599,7 @@ print(db)
 
 ---
 
-## 🎯 COLA RÁPIDA — O QUE MAIS CAI EM CÓDIGO
+##  COLA RÁPIDA — O QUE MAIS CAI EM CÓDIGO
 
 ### Pilha vs Fila
 ```
